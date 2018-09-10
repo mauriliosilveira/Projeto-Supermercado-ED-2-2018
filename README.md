@@ -1,4 +1,4 @@
-# Projeto-Supermercado-ED-2-2018
+# Projeto Supermercado ED 2/2018
 Primeiro projeto de Estrutura de Dados 2/2018 que tinha como objetivo fazer um "estoque" de supermercado, com algumas funcionalidades como:
   - alocar uma lista
   - alocar elementos
